@@ -1,0 +1,246 @@
+@charset "utf-8";
+header {
+	background-image: url(assets/YOUTU.jpg);
+	background-size: cover;
+	background-position: center center;
+	width: 100%;
+	height: 440px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	justify-content: center;
+}
+body p {
+	color: #E00DA7;
+	text-align: left;
+	text-decoration: none;
+	margin-right: 104px;
+	margin-top: 0px;
+	padding-bottom: 13px;
+	padding-top: 13px;
+	font-size: 18px;
+}
+header a:link {
+	background-color: #7AD0D6;
+	border-radius: 59px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 16px;
+	padding-right: 16px;
+	text-decoration: none;
+	color: #E712D8;
+	font-size: 24px;
+	-webkit-transition: all 500ms ease-in-out 0s;
+	-o-transition: all 500ms ease-in-out 0s;
+	transition: all 500ms ease-in-out 0s;
+}
+
+body header h2 {
+	margin-right: 165px;
+	color: #5472DC;
+	border-radius: 0px;
+	text-align: left;
+	padding-top: 57px;
+	margin-top: 0px;
+	width: 100%;
+	font-size: 40px;
+	margin-left: 29px;
+}
+header a:hover {
+	background-color: #8439DF;
+	border-radius: 59px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 16px;
+	padding-right: 16px;
+	text-decoration: none;
+	color: #8EE2D7;
+}
+
+header p a {
+	margin-left: 29px;
+	text-align: left;
+
+
+
+
+}
+nav p a:link {
+	color: #5C31DE;
+	
+}
+nav p a:hover {
+	color: #D773CA;
+	-webkit-transition: all 1s ease-in-out 0s;
+	-o-transition: all 1s ease-in-out 0s;
+	transition: all 1s ease-in-out 0s;
+}
+nav p a:visited {
+	color: #3C7044;
+}
+
+
+
+
+
+
+
+
+body header h1 {
+	color: #5472DC;
+	border-radius: 0px;
+	padding-top: 0px;
+	text-align: right;
+	font-size: 40px;
+	margin-right: 29px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+body nav p {
+	width: 100%;
+	background-color: #F9C3ED;
+	text-align: center;
+
+
+}
+body h3 {
+	text-align: center;
+}
+main article h2 {
+	text-align: center;
+	background-color: #EC7DD3;
+	border-radius: 15px;
+	margin-top: 19px;
+	padding-top: 9px;
+	padding-bottom: 9px;
+	color: #FFFFFF;
+	font-size: 30px;
+
+}
+.container1 {
+	display: flex;
+	width: 90%;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.course {
+}
+main article h3 {
+}
+
+
+main .course1 {
+	background-color: #C7E3E4;
+
+}
+
+
+.container2 {
+	display: flex;
+	width: 90%;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.container2 img {
+	margin: 5px;
+}
+.container1 .1 img {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	justify-content: center;
+	flex: 1;
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	border-top-right-radius: 30px;
+	-webkit-transition: all 500ms ease-in-out 0s;
+	-o-transition: all 500ms ease-in-out 0s;
+	transition: all 500ms ease-in-out 0s;
+}
+.container1 .1 img:hover {
+ transform: rotate(2deg)
+}
+.container2 .col1 {
+	flex: 1;
+}
+.container1 iframe {
+	margin: 3px;
+}
+.course .container2 .2 {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.course1 .container1 .1 {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	justify-content: center;
+	flex: 1;
+}
+main article .container3 {
+	display: flex;
+	width: 60%;
+	margin-top: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: auto;
+}
+article .container3 .left01 {
+	flex: 1;
+	height: 450px;
+	background-color: #E4B1F4;
+	margin: 3px;
+	border-radius: 20px;
+	background-size: cover;
+}
+article .container3 .right01 {
+	flex: 1;
+	height: 450px;
+	background-color: #F8BDF8;
+	margin: 3px;
+	border-radius: 20px;
+}
+
+.container footer {
+	text-align: center;
+}
+.left01 p a {
+	text-align: center;
+	text-decoration: underline;
+	margin-left: 15px;
+	-webkit-transition: all 1s ease-in-out 0.3s;
+	-o-transition: all 1s ease-in-out 0.3s;
+	transition: all 1s ease-in-out 0.3s;
+}
+.left01 p a:hover {
+	font-size: 40px;
+	color: #D773CA;
+	-webkit-transition: all 1s ease-in-out 0.3s;
+	-o-transition: all 1s ease-in-out 0.3s;
+	transition: all 1s ease-in-out 0.3s;
+	}
+.right01 p a {
+	margin-left: 15px;
+	-webkit-transition: all 1s ease-in-out 0.3s;
+	-o-transition: all 1s ease-in-out 0.3s;
+	transition: all 1s ease-in-out 0.3s;
+}
+.right01 p a:hover {
+	font-size: 40px;
+	color: #D773CA;
+	-webkit-transition: all 1s ease-in-out 0.3s;
+	-o-transition: all 1s ease-in-out 0.3s;
+	transition: all 1s ease-in-out 0.3s;
+}
+.course .container2 iframe {
+	margin: 3px;
+	justify-content: center;
+}
